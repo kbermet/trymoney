@@ -18,4 +18,4 @@ def costs2(*expense1):
     return day
 
 
-print(costs2(56, 14, 17))
+print(costs2(56, 114, 17))
